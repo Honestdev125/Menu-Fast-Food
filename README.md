@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🍔 Menu Fast Food</h1>
   <p>Delicious, Fast, and Interactive — your digital restaurant menu experience!</p>
-  <a href="https://nikunamada.github.io/Menu-Fast-Food/">
+  <a href="https://honestdev125.github.io/Menu-Fast-Food/">
     <img src="https://img.shields.io/badge/View_Live_Project-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
