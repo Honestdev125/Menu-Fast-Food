@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🍔 Menu Fast Food</h1>
   <p>Delicious, Fast, and Interactive — your digital restaurant menu experience!</p>
-  <a href="https://hamiparsa.github.io/Menu-Fast-Food/">
+  <a href="https://nikunamada.github.io/Menu-Fast-Food/">
     <img src="https://img.shields.io/badge/View_Live_Project-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
@@ -89,7 +89,7 @@ This project demonstrates how to combine **Zustand** for state management, **Tai
 
 ## 👨‍🍳 Author
 
-**Developed by:** [Hami Parsa](https://github.com/hamiparsa)  
+**Developed by:** [Niku Namada](https://github.com/Honestdev125)  
 💬 Passionate Front-End Developer | Crafting modern web experiences
 
 ---
