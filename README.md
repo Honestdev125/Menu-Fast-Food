@@ -7,7 +7,7 @@
 </div>
 
 --- 
-
+   
 ## 🍕 About Menu Fast Food
 
 **Menu Fast Food** is a stylish and modern restaurant menu web app built with **Next.js**, **React**, and **TypeScript**.  
