@@ -41,7 +41,7 @@ This project focuses on clean UI, fast performance, and real-world functionality
 | 🧩 **Zustand** | Lightweight state management for cart functionality |
 
 ---
-
+       
 ## 💡 Description
 
 The **Menu Fast Food** app showcases a practical and elegant approach to building a real-world restaurant website.  
